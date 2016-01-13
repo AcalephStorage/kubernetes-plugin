@@ -1,9 +1,13 @@
-
-git:2.4.1
-github:1.15.0
 durable-task:1.7
 multiple-scms:0.5
 kubernetes:0.5
 credentials:1.24
 golang:1.1
 authentication-tokens:1.2
+git-client:1.19.1
+scm-api:1.0
+git:2.4.1
+github-api:1.71
+token-macro:1.12.1
+plain-credentials:1.1
+github:1.15.0
